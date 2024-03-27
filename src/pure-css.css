@@ -1,0 +1,8 @@
+button {
+    width: 200px;
+    height: 100px;
+    /* background: rgb(182,113,255); */
+    background: linear-gradient(180deg, rgba(182,113,255,1) 0%, rgba(255,141,166,1) 100%);   
+    font-size: 30px;
+    font-weight: bold;
+}
